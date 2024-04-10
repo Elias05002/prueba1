@@ -17,7 +17,3 @@ async function authenticate() {
 authenticate();
 
 module.exports = db;
-import {config}  from 'dotenv'
-
-config()
-console.log(process.env.PORT)

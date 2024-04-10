@@ -9,7 +9,7 @@ const myConnection = require('express-myconnection');
 const methodOverride = require('method-override');
 const session = require('express-session')
 const { Sequelize } = require('sequelize')
-import ('./config.js')
+
 
 
 
